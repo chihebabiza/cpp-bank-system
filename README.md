@@ -1,4 +1,4 @@
-# Client Management System
+# Bank Client Management System
 
 This is a simple C++ program that implements a basic client management system. The system allows users to perform operations on client records, including viewing, adding, updating, and deleting client information. The client data is stored in a text file.
 
