@@ -138,4 +138,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For inquiries or further information, you can contact the project maintainer:
 
-- Email: [chihababiza9@gmail.com](mailto:chihababiza9@gmail.com)
+Email: [chihababiza9@gmail.com](mailto:chihababiza9@gmail.com)
